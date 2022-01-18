@@ -13,8 +13,8 @@
   "WEI_COST": 50000000000000000,
   "DISPLAY_COST": 0.05,
   "GAS_LIMIT": 285000,
-  "MARKETPLACE": "Opeansea",
-  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/phantanimals-v2",
+  "MARKETPLACE": "opensea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/phantanimals",
   "SHOW_BACKGROUND": false
 }
 
